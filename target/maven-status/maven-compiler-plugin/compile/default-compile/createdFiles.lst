@@ -1,0 +1,6 @@
+kofoednet\SupportTicketSimpleWebapp\ClassList.class
+kofoednet\SupportTicketSimpleWebapp\MYSQLConnector.class
+kofoednet\SupportTicketSimpleWebapp\DataMapper.class
+kofoednet\SupportTicketSimpleWebapp\WaitingList.class
+kofoednet\SupportTicketSimpleWebapp\DatabaseException.class
+kofoednet\SupportTicketSimpleWebapp\Student.class
